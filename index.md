@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to our tutorial page for MICCAI 2020
+# October 4th 7am-11.30am PDT / 16u-19.30u CET
 
-You can use the [editor on GitHub](https://github.com/juanmaverde/MICCAI-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This tutorial is focused on an introduction to machine learning approaches for data fusion of imaging and non-imaging data for clinical decision support organized on behalf of the AMIA biomedical imaging informatics working group.
+* William Hsu - UCLA
+* Arvind Rao - University of Michigan
+* Olivier Gevaert - Stanford University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vast amounts of biomedical data are now routinely available for patients, ranging from radiographic images to clinical and genomic data, spanning multiple biological scales. AI and machine learning are increasingly used to enable pattern discovery to link such data for improvements in patient diagnosis, prognosis and tailoring treatment response. Yet, few studies focus on how to link different types of imaging and non-imaging biomedical data in synergistic ways, and to develop data fusion approaches for clinical decision support. This tutorial will describe considerations, approaches, software toolkits, and open challenges related to multi-omics, multi-modal and multi-scale data fusion of imaging and non-imaging biomedical data in the context of clinical decision support.
 
-```markdown
-Syntax highlighted code block
+## Program
 
-# Header 1
-## Header 2
-### Header 3
+### Session 1: Introduction to data fusion of imaging and non-imaging data - 7am-8am PDT / 16-17u CET
+* __Live Panel discussion__ with speakers including Q&A at 8am PDT / 17u CET
 
-- Bulleted
-- List
+All times are approximate and will be updated 1 week before the tutorial date of October 4th. 
 
-1. Numbered
-2. List
+:movie_camera:  prerecorded presentations by speakers. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juanmaverde/MICCAI-2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
